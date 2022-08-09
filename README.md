@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 ### Team Members:
 - contributors:
-  * Ebrahim Sayedelahal
+  * Ebrahim Sayedelahl
   * Moaz Mostafa
   * Mohamed Radwan
   * Omar Allam
