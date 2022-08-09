@@ -22,7 +22,17 @@ We worked on the Egyptian currencies to do the following:
 _________________________________________________________________________________________________________________________________________
 
 ### 2) Language & Libraries used: 
-Python(openCV - Numpy)
+- Language:
+
+  * python
+  
+- Libraries:
+
+  * openCV (Open Source Computer Vision Library)
+  * gtts (Google Text-to-Speech Library) 
+  * playsound (Python Libraries for playing audios)
+  * Numpy (Python Library deals with arrays & matrices) 
+
 _________________________________________________________________________________________________________________________________________
 
 ### 3) Algorithms used:
