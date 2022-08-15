@@ -1,6 +1,6 @@
 # Blind-Vision-project
 ### It is a summer training project to help the blind handle their money using computer vision technique.
-![logo](https://user-images.githubusercontent.com/91850794/183761832-ee0ffdbc-c861-4d5e-b226-6c3b12d3d76c.png)
+![gitHub](https://user-images.githubusercontent.com/91850794/184735876-78767aeb-c6d6-4a0a-851e-034111e65e91.png)
 
 ### 1) Idea of the project:
 We worked on the Egyptian currencies to do the following:
