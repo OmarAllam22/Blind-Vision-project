@@ -1,4 +1,4 @@
-# The-Blind-Vision-project
+# Blind-Vision-project
 ### It is a summer training project to help the blind handle their money using computer vision technique.
 ![logo](https://user-images.githubusercontent.com/91850794/183761832-ee0ffdbc-c861-4d5e-b226-6c3b12d3d76c.png)
 
@@ -31,7 +31,9 @@ ________________________________________________________________________________
   * openCV (Open Source Computer Vision Library)
   * gtts (Google Text-to-Speech Library) 
   * playsound (Python Libraries for playing audios)
-  * Numpy (Python Library deals with arrays & matrices) 
+  * Numpy (Python Library deals with arrays & matrices)
+  * inflect (Python string transformation library to transform numbers to text)
+  * os (Python library to interact with the operating system)
 
 _________________________________________________________________________________________________________________________________________
 
