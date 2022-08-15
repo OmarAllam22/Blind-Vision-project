@@ -54,3 +54,14 @@ ________________________________________________________________________________
 
 - Supervisors:
   * Eng / Aya Nagy 
+_________________________________________________________________________________________________________________________________________
+
+### How to use the project:
+  1. Make sure to have one folder contais (images_folder & source_code_file):
+  2. Open the source code with a notebook-supported editor.
+  3. Run the second cell once in order to load the audios.
+  3. Run the first cell "main project cell" as many times as you want.
+  4. While running:
+     - press "w" key on keyboard to read a currency. "press "w" at each time you read a new currency.
+     - press "q" to accumulate all currencies you have read and exit the running process.
+            Note: those keys (w,q) will be replaced with buttons at the corner of the mobile phone when the application is ready.
