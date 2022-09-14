@@ -40,7 +40,7 @@ ________________________________________________________________________________
 ### 3) Algorithms used:
 
 * ORB (Oriented FAST and Rotated BRIEF) : an openCV built-in algorithm to help in object detection by extracting sets of keypoints and descriptors from the image.
-* BF (Brute Force): an openCV built-in algorithm to help in object recognition throug matching the descriptors of the two images and find the best match.
+* BF (Brute Force): an openCV built-in algorithm to help in object recognition through matching the descriptors of the two images and find the best match.
 _________________________________________________________________________________________________________________________________________
 
 ### Team Members:
